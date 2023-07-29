@@ -3,6 +3,10 @@ linux commands dived into 3 types
 =>system command 
 =>user command 
 yes
-importent YES important
+<<<<<<< HEAD
+importent......
+=======
+importent,
+>>>>>>> newbranch2
 adding this line to edit git usernsme and gmail
 ntg
